@@ -9,8 +9,8 @@
    I will never give up!
 4. HTML/Css/JS. C, C++,C#, Delphi
 5. https://github.com/RemyJS/
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+6. https://github.com/RemyJS/LearnJavaScript, https://www.codewars.com/users/remy_lee_bo
+7. BSUIR, BelHard Courses, LearnJavaScript.ru - read several times, a lot of video from Youtube.
+8. English. I have been actively studying English for the last year and a half.
+   Courses and a tutor. EnglishPapa PreIntermidiate (A2) 2019-2020
+   https://quizlet.com/andrey_dev/studied https://www.englishdom.com/users/id369046/
